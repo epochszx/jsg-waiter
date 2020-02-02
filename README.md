@@ -1,4 +1,4 @@
-# jsg-customer
+# jsg-waiter
 
 ## Project setup
 ```
